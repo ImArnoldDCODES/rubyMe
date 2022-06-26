@@ -1,3 +1,3 @@
-num = 18
+num = 20.1
 
-puts ("My age is " + num.to_s)
+puts Math.log(1)
