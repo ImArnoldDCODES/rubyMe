@@ -1,3 +1,5 @@
-num = 20.1
-
-puts Math.log(1)
+puts "Enter Your Name: "
+name = gets.chomp()
+puts "Enter Your Age: "
+Age = gets.chomp()
+puts ("Hello " + name + ", you are " + Age )
