@@ -12,10 +12,13 @@
 # puts ("He really liked the name " + character_name )
 # puts ( "but didn't like being " + character_age )
 
-name = "Mike"
-occupation = "programmer"
-age = 73
-gpa = 3.232
-ismale = true
-istall = false
-flaws = nil
+# name = "Mike"
+# occupation = "programmer"
+# age = 73
+# gpa = 3.232
+# ismale = true
+# istall = false
+# flaws = nil
+
+phrase = "Girraffe Academy"
+puts phrase.index("fe") 
