@@ -6,4 +6,4 @@ Age = gets.chomp()
 
 puts ("Hello " + name + ", you are " + Age )
 
-#
+puts Practing ruby😊
