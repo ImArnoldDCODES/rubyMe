@@ -8,6 +8,5 @@ Age = gets.chomp()
 puts "Enter your surname: "
 surname = gets.chomp();
 
-// trying to add surname but gets error
 
-puts ("Hello " + name + surname + ", you are " + Age )
+puts ("Hello " + name +", you are " + Age )
